@@ -1,0 +1,41 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    margin: 10px 20px;
+}
+.container{
+    background-color: rgb(225, 219, 219);
+    padding: 70px;
+    width: 80vw;
+    margin:10px 20px ;
+    
+}
+
+.data{
+    display: flex;
+    gap: 20px;
+    text-align:start;
+    margin-bottom: 50px;
+}
+
+.p ,.h{
+    font-weight: bold;
+}
+
+label{
+    text-align: start;
+}
+
+.box{    
+    border:3px rgb(192, 187, 187) solid;
+    padding: 15px;
+    width: 650px;
+    background-color:rgb(195, 192, 192) ;
+}
+
+.hash{
+    display: flex;
+    gap: 17px;
+}
